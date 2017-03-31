@@ -15,6 +15,7 @@ class App extends Component {
         </p>
           <p className="App-asik">Percobaan break</p>
           <p>Content Inside</p>
+          <p>Belajar Membuat Aplikasi WEB JavaScript</p>
 
       </div>
     );
